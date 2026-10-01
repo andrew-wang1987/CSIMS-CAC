@@ -1,9 +1,9 @@
 # CSIMS
-CSIMS is an app created to optimize mental health crisis intervention developed for the Congressional App Challenge in the FL-27 district. Utilizing a complex machine learning algorithm created in Python, it provides data-driven crisis response recommendations based on patterns identified in historical data across the United States. 
+CSIMS is an app created to optimize mental health crisis intervention developed for the Congressional App Challenge in the FL-27 district. Utilizing a complex machine learning algorithm created in Pytorch, it provides data-driven crisis response recommendations based on patterns identified in historical data across the United States. 
 
 
 Credits:
 - Andrew Wang | Backend developer + ML integration
 - Ethan Lopez | Frontend developer
 - OpenStreetMap
-
+- Inspired by research done at the FAMU-FSU College of Engineering during the Young Scholars Program.
